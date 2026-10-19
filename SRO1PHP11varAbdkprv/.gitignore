@@ -1,0 +1,4 @@
+```text
+/var/data/*.tmp
+.DS_Store
+.env
